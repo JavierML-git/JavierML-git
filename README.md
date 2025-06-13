@@ -16,8 +16,8 @@
 
 # 📚 Proyectos Importantes
 <h3>Easy Flights</h3>
-<img src="/workspaces/JavierML-git/assets/img/Captura de pantalla 2025-06-13 183750.png" alt="Vista previa" width="800">
-![Vista previa de Easy Flights](assets/Captura%20de%20pantalla%202025-06-13%20183750.png)
+<img src="assets/img/Proyecto.png" alt="Vista previa" width="800">
+![Vista previa de Easy Flights](assets/img/Proyecto.png)
 
 
 <p> Web site: https://easy-flights.onrender.com</p>
