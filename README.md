@@ -10,7 +10,7 @@
 
 # 📚 Proyectos Importantes
 <h3>Easy Flights</h3>
-[Captura de pantalla 2025-06-13 183750](https://github.com/user-attachments/assets/146ca87f-9249-43ce-b01d-5442c24aa962)
+<img src="[Captura de pantalla 2025-06-13 183750](https://github.com/user-attachments/assets/146ca87f-9249-43ce-b01d-5442c24aa962)">
 
 https://easy-flights.onrender.com
 
