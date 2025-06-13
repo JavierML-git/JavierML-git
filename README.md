@@ -17,8 +17,6 @@
 # 📚 Proyectos Importantes
 <h3>Easy Flights</h3>
 <img src="assets/img/Proyecto.png" alt="Vista previa" width="800">
-![Vista previa de Easy Flights](assets/img/Proyecto.png)
-
 
 <p> Web site: https://easy-flights.onrender.com</p>
 
