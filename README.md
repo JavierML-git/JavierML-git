@@ -1,6 +1,6 @@
 
 <h1>Hola 👋, Soy Javier</h1>
-<p> Un desarrollador full-stack Junior que se ha formado en 4GeeksAcademy.Impulsado por la superación continua y alcanzar nuevas metas gracias al aprendizaje constante</p>
+<p> Desarrollador Full-Stack con experiencia en React, JavaScript y Python. Impulsado por el aprendizaje constante, con una mentalidad de crecimiento y motivado por asumir nuevos desafíos.</p>
 
 ## 🌐 Redes:
 
